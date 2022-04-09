@@ -144,24 +144,24 @@ button:focus {
 
 
 #agri{
-    background-image: url("section4/IMAGES/agriculture.jpg");
+    background-image: url("IMAGES/agriculture.jpg");
     
     
 }
 #Law{
-  background-image: url("LAW.jpg");
+  background-image: url("IMAGES/LAW.jpg");
 }
 
 
 #management{
-  background-image: url("management2.jpg");
+  background-image: url("IMAGES/management2.jpg");
   color: #222;
 }
 #Pharmacy{
-  background-image: url("/section4/IMAGES/pharmacy.png");
+  background-image: url("IMAGES/pharmacy.png");
 }
 #Engineering{
-  background-image: url("/section4/IMAGES/ENGG.jpg");
+  background-image: url("IMAGES/ENGG.jpg");
 }
 
 
