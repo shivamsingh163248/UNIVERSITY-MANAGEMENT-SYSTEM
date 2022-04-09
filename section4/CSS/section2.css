@@ -149,12 +149,12 @@ button:focus {
     
 }
 #Law{
-  background-image: url("/section4/IMAGES/LAW.jpg");
+  background-image: url("LAW.jpg");
 }
 
 
 #management{
-  background-image: url("/section4/IMAGES/management2.jpg");
+  background-image: url("management2.jpg");
   color: #222;
 }
 #Pharmacy{
