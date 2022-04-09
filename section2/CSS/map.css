@@ -20,7 +20,7 @@
   
   .map .right {
     width: 70%;
-    background-image: url("section2/IMAGES/vbspulocation.png");
+    background-image: url("section2\IMAGES\vbspulocation.png");
     background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
